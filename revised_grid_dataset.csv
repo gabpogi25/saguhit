@@ -1,0 +1,509 @@
+from_node,to_node,description,hv_kv,lv_kv,capacity_kw,coordinates,notes
+GEN-1,TX-1,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-1,TX-2,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-1,TX-3,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-2,TX-4,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-2,TX-5,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-2,TX-6,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-3,TX-7,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-3,TX-8,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-3,TX-9,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-4,TX-10,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-4,TX-11,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-4,TX-12,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-5,TX-13,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-5,TX-14,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-5,TX-15,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-6,TX-16,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-6,TX-17,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-6,TX-18,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-7,TX-19,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-7,TX-20,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-7,TX-21,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-8,TX-22,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-8,TX-23,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-8,TX-24,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-9,TX-25,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-9,TX-26,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-9,TX-27,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-10,TX-28,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-10,TX-29,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-10,TX-30,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-11,TX-31,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-11,TX-32,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-11,TX-33,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-12,TX-34,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-12,TX-35,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-12,TX-36,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-13,TX-37,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-13,TX-38,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-13,TX-39,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-14,TX-40,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-14,TX-41,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-14,TX-42,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-15,TX-43,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-15,TX-44,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-15,TX-45,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-16,TX-46,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-16,TX-47,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-16,TX-48,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-17,TX-49,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-17,TX-50,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-17,TX-51,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-18,TX-52,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-18,TX-53,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-18,TX-54,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-19,TX-55,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-19,TX-56,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-19,TX-57,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-20,TX-58,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-20,TX-59,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-20,TX-60,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-21,TX-61,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-21,TX-62,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-21,TX-63,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-22,TX-64,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-22,TX-65,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-22,TX-66,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-23,TX-67,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-23,TX-68,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-23,TX-69,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-24,TX-70,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-24,TX-71,Main generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-25,TX-72,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-25,TX-73,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-25,TX-74,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-26,TX-75,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-26,TX-76,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-26,TX-77,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-27,TX-78,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-27,TX-79,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-27,TX-80,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-28,TX-81,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-28,TX-82,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-28,TX-83,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-29,TX-84,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-29,TX-85,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-29,TX-86,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-30,TX-87,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-30,TX-88,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-30,TX-89,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-31,TX-90,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-31,TX-91,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-31,TX-92,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-32,TX-93,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-32,TX-94,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-32,TX-95,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-33,TX-96,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-33,TX-97,Main generator step-up transformer,230,13.8,450,"(0,0) → (10,5)",Hydro/Coal/Gas mix
+GEN-33,TX-98,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+GEN-34,TX-99,Main generator step-up transformer,230,13.8,500,"(0,0) → (5,12)",Hydro/Coal/Gas mix
+GEN-34,TX-100,Peaking generator step-up transformer,230,13.8,300,"(0,0) → (3,-15)",Hydro/Coal/Gas mix
+,,,,,,,
+From,To,Description,Distance (km),Energy Transmitted (MWh),Voltage Level (kV),Ampacity (A),Coordinates
+TX-1,S1,230 kV Line North,20,550,230,2800,"(5,12) → (7,14)"
+TX-1,S2,230 kV Line North,25,600,230,3000,"(5,12) → (3,16)"
+TX-2,S3,230 kV Line Central,15,420,230,2600,"(10,5) → (12,6)"
+TX-2,S4,230 kV Line Central,18,380,230,2400,"(10,5) → (8,3)"
+TX-3,S5,230 kV Line South,22,400,230,2500,"(3,-15) → (5,-17)"
+TX-4,S6,230 kV Line North,21,570,230,2850,"(7,14) → (8,15)"
+TX-4,S7,230 kV Line North,24,620,230,3100,"(7,14) → (6,16)"
+TX-5,S8,230 kV Line Central,16,450,230,2650,"(12,6) → (13,7)"
+TX-5,S9,230 kV Line Central,19,390,230,2350,"(12,6) → (10,4)"
+TX-6,S10,230 kV Line South,23,410,230,2550,"(5,-17) → (6,-16)"
+TX-6,S11,230 kV Line South,20,440,230,2400,"(5,-17) → (4,-18)"
+TX-7,S12,230 kV Line North,19,580,230,2900,"(8,15) → (9,16)"
+TX-7,S13,230 kV Line North,22,610,230,3000,"(8,15) → (7,17)"
+TX-8,S14,230 kV Line Central,17,430,230,2700,"(13,7) → (14,8)"
+TX-8,S15,230 kV Line Central,20,370,230,2250,"(13,7) → (12,6)"
+TX-9,S16,230 kV Line South,21,390,230,2500,"(6,-16) → (5,-15)"
+TX-9,S17,230 kV Line South,24,420,230,2600,"(6,-16) → (7,-17)"
+TX-10,S18,230 kV Line North,20,560,230,2800,"(5,12) → (7,14)"
+TX-10,S19,230 kV Line North,26,610,230,3000,"(5,12) → (4,15)"
+TX-11,S20,230 kV Line Central,18,400,230,2600,"(10,5) → (11,6)"
+TX-11,S21,230 kV Line Central,21,380,230,2400,"(10,5) → (9,4)"
+TX-12,S22,230 kV Line South,22,430,230,2500,"(3,-15) → (5,-16)"
+TX-12,S23,230 kV Line South,23,440,230,2400,"(3,-15) → (2,-14)"
+TX-13,S24,230 kV Line North,21,590,230,2900,"(5,12) → (7,13)"
+TX-13,S25,230 kV Line North,24,620,230,3100,"(5,12) → (6,14)"
+TX-14,S26,230 kV Line Central,19,440,230,2650,"(12,6) → (13,7)"
+TX-14,S27,230 kV Line Central,22,390,230,2350,"(12,6) → (10,5)"
+TX-15,S28,230 kV Line South,23,410,230,2550,"(5,-17) → (6,-16)"
+TX-15,S29,230 kV Line South,20,440,230,2400,"(5,-17) → (4,-18)"
+TX-16,S30,230 kV Line North,19,580,230,2900,"(8,15) → (9,16)"
+TX-16,S31,230 kV Line North,22,610,230,3000,"(8,15) → (7,17)"
+TX-17,S32,230 kV Line Central,17,430,230,2700,"(13,7) → (14,8)"
+TX-17,S33,230 kV Line Central,20,370,230,2250,"(13,7) → (12,6)"
+TX-18,S34,230 kV Line South,21,390,230,2500,"(6,-16) → (5,-15)"
+TX-18,S35,230 kV Line South,24,420,230,2600,"(6,-16) → (7,-17)"
+TX-19,S36,230 kV Line North,20,560,230,2800,"(5,12) → (7,14)"
+TX-19,S37,230 kV Line North,26,610,230,3000,"(5,12) → (4,15)"
+TX-20,S38,230 kV Line Central,18,400,230,2600,"(10,5) → (11,6)"
+TX-20,S39,230 kV Line Central,21,380,230,2400,"(10,5) → (9,4)"
+TX-21,S40,230 kV Line South,22,430,230,2500,"(3,-15) → (5,-16)"
+TX-21,S41,230 kV Line South,23,440,230,2400,"(3,-15) → (2,-14)"
+TX-22,S42,230 kV Line North,21,590,230,2900,"(5,12) → (7,13)"
+TX-22,S43,230 kV Line North,24,620,230,3100,"(5,12) → (6,14)"
+TX-23,S44,230 kV Line Central,19,440,230,2650,"(12,6) → (13,7)"
+TX-23,S45,230 kV Line Central,22,390,230,2350,"(12,6) → (10,5)"
+TX-24,S46,230 kV Line South,23,410,230,2550,"(5,-17) → (6,-16)"
+TX-24,S47,230 kV Line South,20,440,230,2400,"(5,-17) → (4,-18)"
+TX-25,S48,230 kV Line North,19,580,230,2900,"(8,15) → (9,16)"
+TX-25,S49,230 kV Line North,22,610,230,3000,"(8,15) → (7,17)"
+TX-26,S50,230 kV Line Central,17,430,230,2700,"(13,7) → (14,8)"
+TX-26,S51,230 kV Line Central,20,370,230,2250,"(13,7) → (12,6)"
+TX-27,S52,230 kV Line South,21,390,230,2500,"(6,-16) → (5,-15)"
+TX-27,S53,230 kV Line South,24,420,230,2600,"(6,-16) → (7,-17)"
+TX-28,S54,230 kV Line North,20,560,230,2800,"(5,12) → (7,14)"
+TX-28,S55,230 kV Line North,26,610,230,3000,"(5,12) → (4,15)"
+TX-29,S56,230 kV Line Central,18,400,230,2600,"(10,5) → (11,6)"
+TX-29,S57,230 kV Line Central,21,380,230,2400,"(10,5) → (9,4)"
+TX-30,S58,230 kV Line South,22,430,230,2500,"(3,-15) → (5,-16)"
+TX-30,S59,230 kV Line South,23,440,230,2400,"(3,-15) → (2,-14)"
+TX-31,S60,230 kV Line North,21,590,230,2900,"(5,12) → (7,13)"
+TX-31,S61,230 kV Line North,24,620,230,3100,"(5,12) → (6,14)"
+TX-32,S62,230 kV Line Central,19,440,230,2650,"(12,6) → (13,7)"
+TX-32,S63,230 kV Line Central,22,410,230,2350,"(12,6) → (13,7)"
+TX-64,S64,230 kV Line South,23,410,230,2550,"(5,-16) → (7,-17)"
+TX-65,S65,230 kV Line North,20,560,230,2800,"(8,15) → (9,16)"
+TX-66,S66,230 kV Line North,26,610,230,3000,"(8,15) → (7,17)"
+TX-67,S67,230 kV Line Central,17,430,230,2700,"(13,7) → (14,8)"
+TX-68,S68,230 kV Line Central,20,370,230,2250,"(13,7) → (12,6)"
+TX-69,S69,230 kV Line South,21,390,230,2500,"(6,-16) → (5,-15)"
+TX-70,S70,230 kV Line South,24,420,230,2600,"(6,-16) → (7,-17)"
+TX-71,S71,230 kV Line North,20,560,230,2800,"(5,12) → (7,14)"
+TX-72,S72,230 kV Line North,26,610,230,3000,"(5,12) → (4,15)"
+TX-73,S73,230 kV Line Central,18,400,230,2600,"(10,5) → (11,6)"
+TX-74,S74,230 kV Line Central,21,380,230,2400,"(10,5) → (9,4)"
+TX-75,S75,230 kV Line South,22,430,230,2500,"(3,-15) → (5,-16)"
+TX-76,S76,230 kV Line South,23,440,230,2400,"(3,-15) → (2,-14)"
+TX-77,S77,230 kV Line North,21,590,230,2900,"(5,12) → (7,13)"
+TX-78,S78,230 kV Line North,24,620,230,3100,"(5,12) → (6,14)"
+TX-79,S79,230 kV Line Central,19,440,230,2650,"(12,6) → (13,7)"
+TX-80,S80,230 kV Line Central,22,390,230,2350,"(12,6) → (10,5)"
+TX-81,S81,230 kV Line South,23,410,230,2550,"(5,-17) → (6,-16)"
+TX-82,S82,230 kV Line South,20,440,230,2400,"(5,-17) → (4,-18)"
+TX-83,S83,230 kV Line North,19,580,230,2900,"(8,15) → (9,16)"
+TX-84,S84,230 kV Line North,22,610,230,3000,"(8,15) → (7,17)"
+TX-85,S85,230 kV Line Central,17,430,230,2700,"(13,7) → (14,8)"
+TX-86,S86,230 kV Line Central,20,370,230,2250,"(13,7) → (12,6)"
+TX-87,S87,230 kV Line South,21,390,230,2500,"(6,-16) → (5,-15)"
+TX-88,S88,230 kV Line South,24,420,230,2600,"(6,-16) → (7,-17)"
+TX-89,S89,230 kV Line North,20,560,230,2800,"(5,12) → (7,14)"
+TX-90,S90,230 kV Line North,26,610,230,3000,"(5,12) → (4,15)"
+TX-91,S91,230 kV Line Central,18,400,230,2600,"(10,5) → (11,6)"
+TX-92,S92,230 kV Line Central,21,380,230,2400,"(10,5) → (9,4)"
+TX-93,S93,230 kV Line South,22,430,230,2500,"(3,-15) → (5,-16)"
+TX-94,S94,230 kV Line South,23,440,230,2400,"(3,-15) → (2,-14)"
+TX-95,S95,230 kV Line North,21,590,230,2900,"(5,12) → (7,13)"
+TX-96,S96,230 kV Line North,24,620,230,3100,"(5,12) → (6,14)"
+TX-97,S97,230 kV Line Central,19,440,230,2650,"(12,6) → (13,7)"
+TX-98,S98,230 kV Line Central,22,390,230,2350,"(12,6) → (10,5)"
+TX-99,S99,230 kV Line South,23,410,230,2550,"(5,-17) → (6,-16)"
+TX-100,S100,230 kV Line South,20,440,230,2400,"(5,-17) → (4,-18)"
+,,,,,,,
+From,To,Description,Distance (km),Energy Transmitted (MWh),HV Level (kV),LV Level (kV),Apparent Power (MVA)
+S1,SS1,North Primary Substation,5,300,230,69,150
+S1,SS2,North Primary Substation,6,250,230,69,125
+S2,SS3,North-East Primary,8,100,230,69,75
+S2,SS4,North-East Primary,10,70,230,69,50
+S3,SS5,Central Primary,7,200,230,69,100
+S4,SS6,Central-East Primary,9,180,230,69,90
+S5,SS7,South Primary,8,190,230,69,95
+S6,SS8,South-West Primary,11,220,230,69,130
+S7,SS9,West Primary,8,160,230,69,80
+S8,SS10,Central-West Primary,12,140,230,69,70
+S9,SS11,East Primary,10,130,230,69,60
+S10,SS12,North-Central Primary,9,150,230,69,85
+S11,SS13,South-Central Primary,7,160,230,69,90
+S12,SS14,Urban Primary,6,200,230,69,100
+S13,SS15,Rural Primary,5,170,230,69,75
+S14,SS16,New Area Primary,8,190,230,69,95
+S15,SS17,Coastal Primary,11,210,230,69,120
+S16,SS18,Industrial Primary,7,230,230,69,110
+S17,SS19,Manufacturing Primary,5,180,230,69,80
+S18,SS20,Residential Primary,6,150,230,69,70
+S19,SS21,Commercial Primary,12,140,230,69,60
+S20,SS22,Suburban Primary,10,130,230,69,55
+S21,SS23,Urban Expansion Primary,11,160,230,69,90
+S22,SS24,Downtown Primary,9,200,230,69,100
+S23,SS25,Metro Primary,8,180,230,69,75
+S24,SS26,Urban Center Primary,10,190,230,69,95
+S25,SS27,City Limits Primary,12,220,230,69,130
+S26,SS28,County Line Primary,6,150,230,69,70
+S27,SS29,Area Development Primary,5,160,230,69,75
+S28,SS30,New Development Primary,7,170,230,69,80
+S29,SS31,Future Expansion Primary,8,180,230,69,85
+S30,SS32,Eastern Edge Primary,9,190,230,69,90
+S31,SS33,Western Edge Primary,10,200,230,69,100
+S32,SS34,Southern Primary,8,210,230,69,110
+S33,SS35,Northern Primary,5,220,230,69,120
+S34,SS36,Coastal Primary,6,230,230,69,130
+S35,SS37,Mountain Primary,7,240,230,69,135
+S36,SS38,Valley Primary,8,250,230,69,140
+S37,SS39,River Primary,9,260,230,69,145
+S38,SS40,Lake Primary,10,270,230,69,150
+S39,SS41,Harbor Primary,11,280,230,69,155
+S40,SS42,Bay Primary,12,290,230,69,160
+S41,SS43,Plains Primary,6,300,230,69,165
+S42,SS44,High Plains Primary,7,310,230,69,170
+S43,SS45,Central Plains Primary,8,320,230,69,175
+S44,SS46,Lowlands Primary,9,330,230,69,180
+S45,SS47,Misty Mountains Primary,10,340,230,69,185
+S46,SS48,Rocky Mountains Primary,11,350,230,69,190
+S47,SS49,Foothills Primary,12,360,230,69,195
+S48,SS50,Cascade Mountains Primary,13,370,230,69,200
+S49,SS51,Eastern Range Primary,10,380,230,69,205
+S50,SS52,Western Range Primary,11,390,230,69,210
+S51,SS53,Northern Range Primary,12,400,230,69,215
+S52,SS54,Southern Range Primary,13,410,230,69,220
+S53,SS55,Northern Woods Primary,14,420,230,69,225
+S54,SS56,Southern Woods Primary,15,430,230,69,230
+S55,SS57,Central Woods Primary,16,440,230,69,235
+S56,SS58,Marshlands Primary,17,450,230,69,240
+S57,SS59,Wetlands Primary,18,460,230,69,245
+S58,SS60,Swamplands Primary,19,470,230,69,250
+S59,SS61,Riverbanks Primary,20,480,230,69,255
+S60,SS62,Delta Primary,21,490,230,69,260
+S61,SS63,Bayou Primary,22,500,230,69,265
+S62,SS64,Gulf Primary,23,510,230,69,270
+S63,SS65,Ocean Primary,24,520,230,69,275
+S64,SS66,Coastal Plains Primary,25,530,230,69,280
+S65,SS67,Ridge Primary,26,540,230,69,285
+S66,SS68,Summit Primary,27,550,230,69,290
+S67,SS69,Mountain Ridge Primary,28,560,230,69,295
+S68,SS70,High Peak Primary,29,570,230,69,300
+S69,SS71,Valley View Primary,30,580,230,69,305
+S70,SS72,Sunset Ridge Primary,23,590,230,69,310
+S71,SS73,Sunrise Valley Primary,22,600,230,69,315
+S72,SS74,Forest Edge Primary,24,610,230,69,320
+S73,SS75,Cedar Grove Primary,25,620,230,69,325
+S74,SS76,Oak Valley Primary,26,630,230,69,330
+S75,SS77,Maple Hill Primary,27,640,230,69,335
+S76,SS78,Birchwood Primary,28,650,230,69,340
+S77,SS79,Pine Valley Primary,29,660,230,69,345
+S78,SS80,Willow Bend Primary,30,670,230,69,350
+S79,SS81,Riverbend Primary,31,680,230,69,355
+S80,SS82,Canyon View Primary,32,690,230,69,360
+S81,SS83,Hillside Primary,33,700,230,69,365
+S82,SS84,Crestline Primary,34,710,230,69,370
+S83,SS85,Summit View Primary,35,720,230,69,375
+S84,SS86,Peak View Primary,36,730,230,69,380
+S85,SS87,Horizon Primary,37,740,230,69,385
+S86,SS88,Skyline Primary,38,750,230,69,390
+S87,SS89,Vista Primary,39,760,230,69,395
+S88,SS90,Outlook Primary,40,770,230,69,400
+S89,SS91,Viewing Point Primary,41,780,230,69,405
+S90,SS92,High Point Primary,42,790,230,69,410
+S91,SS93,Overlook Primary,43,800,230,69,415
+S92,SS94,Edge View Primary,44,810,230,69,420
+S93,SS95,Cliffside Primary,45,820,230,69,425
+S94,SS96,Ridge Top Primary,46,830,230,69,430
+S95,SS97,Bluff View Primary,47,840,230,69,435
+S96,SS98,Heights Primary,48,850,230,69,440
+S97,SS99,Pinnacle Primary,49,860,230,69,445
+S98,SS100,Apex Primary,50,870,230,69,450
+,,,,,,,
+From,To,Description,Distance (km),Energy Transmitted (MWh),HV Level (kV),LV Level (kV),Apparent Power (MVA)
+MD1,SS1,Urban Substation A,2,150,69,13.8,50
+MD2,SS2,Urban Substation B,3,100,69,13.8,40
+R1,SS3,Rural Substation A,4,30,69,13.8,15
+R2,SS4,Rural Substation B,5,20,69,13.8,10
+MD3,SS5,Central Urban,3,120,69,13.8,45
+MD4,SS6,Industrial Substation,2.5,140,69,13.8,55
+R3,SS7,South Rural,4.5,35,69,13.8,18
+MD5,SS8,North Urban,3,110,69,13.8,48
+MD6,SS9,East Urban,4,95,69,13.8,42
+R4,SS10,West Rural,4.5,25,69,13.8,12
+R5,SS11,North Rural,5,15,69,13.8,10
+MD7,SS12,South Urban,3.5,130,69,13.8,50
+MD8,SS13,Central Industrial,2,160,69,13.8,60
+R6,SS14,East Rural,4,28,69,13.8,14
+R7,SS15,West Rural,3,22,69,13.8,13
+MD9,SS16,Urban Substation C,2.5,150,69,13.8,55
+MD10,SS17,Urban Substation D,3,145,69,13.8,52
+R8,SS18,Rural Substation C,4,35,69,13.8,18
+R9,SS19,Rural Substation D,5.5,18,69,13.8,9
+MD11,SS20,Central Urban 2,3,125,69,13.8,45
+MD12,SS21,Industrial Substation 2,2.5,140,69,13.8,55
+R10,SS22,South Rural 2,4.5,32,69,13.8,16
+MD13,SS23,Urban Substation E,2,100,69,13.8,40
+R11,SS24,Rural Substation E,5,20,69,13.8,10
+MD14,SS25,Urban Substation F,3,120,69,13.8,50
+MD15,SS26,Industrial Substation 3,2.5,140,69,13.8,55
+R12,SS27,South Rural 3,4.5,30,69,13.8,15
+R13,SS28,North Rural 2,4,28,69,13.8,14
+MD16,SS29,East Urban 2,4,110,69,13.8,45
+MD17,SS30,West Urban 2,3,115,69,13.8,42
+R14,SS31,West Rural 2,4,35,69,13.8,16
+R15,SS32,South Rural 4,5,25,69,13.8,12
+MD18,SS33,Urban Substation G,2.5,130,69,13.8,50
+MD19,SS34,Urban Substation H,3,100,69,13.8,40
+R16,SS35,Rural Substation F,4,32,69,13.8,14
+R17,SS36,Rural Substation G,5,22,69,13.8,12
+MD20,SS37,Central Urban 3,3,140,69,13.8,50
+MD21,SS38,Industrial Substation 4,2,160,69,13.8,60
+R18,SS39,East Rural 2,4,25,69,13.8,10
+R19,SS40,West Rural 3,3,20,69,13.8,10
+MD22,SS41,South Urban 2,3.5,130,69,13.8,50
+MD23,SS42,Central Industrial 2,2,160,69,13.8,60
+R20,SS43,North Rural 3,4,35,69,13.8,18
+R21,SS44,South Rural 5,5.5,18,69,13.8,9
+MD24,SS45,Urban Substation I,3,125,69,13.8,45
+MD25,SS46,Industrial Substation 5,2.5,140,69,13.8,55
+R22,SS47,South Rural 6,4.5,32,69,13.8,16
+R23,SS48,West Rural 4,4,28,69,13.8,14
+MD26,SS49,Urban Substation J,2.5,130,69,13.8,50
+MD27,SS50,Urban Substation K,3,100,69,13.8,40
+R24,SS51,Rural Substation H,4,32,69,13.8,14
+R25,SS52,Rural Substation I,4,25,69,13.8,12
+MD28,SS53,Central Urban 4,3,140,69,13.8,50
+MD29,SS54,Industrial Substation 6,2,160,69,13.8,60
+R26,SS55,East Rural 3,4,25,69,13.8,10
+R27,SS56,West Rural 5,3,20,69,13.8,10
+MD30,SS57,North Urban 3,3.5,130,69,13.8,50
+MD31,SS58,Central Industrial 3,2,160,69,13.8,60
+R28,SS59,North Rural 4,4,35,69,13.8,18
+R29,SS60,South Rural 7,5.5,18,69,13.8,9
+MD32,SS61,Urban Substation L,3,125,69,13.8,45
+MD33,SS62,Industrial Substation 7,2.5,140,69,13.8,55
+R30,SS63,South Rural 8,4.5,32,69,13.8,16
+R31,SS64,West Rural 6,4,28,69,13.8,14
+MD34,SS65,Urban Substation M,2.5,130,69,13.8,50
+MD35,SS66,Urban Substation N,3,100,69,13.8,40
+R32,SS67,Rural Substation J,4,32,69,13.8,14
+R33,SS68,Rural Substation K,4,25,69,13.8,12
+MD36,SS69,Central Urban 5,3,140,69,13.8,50
+MD37,SS70,Industrial Substation 8,2,160,69,13.8,60
+R34,SS71,East Rural 4,4,25,69,13.8,10
+R35,SS72,West Rural 7,3,20,69,13.8,50
+R36,SS73,South Rural 9,4.5,30,69,13.8,15
+R37,SS74,North Rural 5,4,28,69,13.8,14
+MD38,SS75,Urban Substation O,2.5,130,69,13.8,50
+MD39,SS76,Urban Substation P,3,100,69,13.8,40
+R38,SS77,Rural Substation L,4,32,69,13.8,14
+R39,SS78,Rural Substation M,4,25,69,13.8,12
+MD40,SS79,Central Urban 6,3,140,69,13.8,50
+MD41,SS80,Industrial Substation 9,2,160,69,13.8,60
+R40,SS81,East Rural 5,4,35,69,13.8,18
+R41,SS82,West Rural 8,5.5,18,69,13.8,9
+MD42,SS83,Urban Substation Q,3,125,69,13.8,45
+MD43,SS84,Industrial Substation 10,2.5,140,69,13.8,55
+R42,SS85,South Rural 10,4.5,32,69,13.8,16
+R43,SS86,West Rural 9,4,28,69,13.8,14
+MD44,SS87,Urban Substation R,2.5,130,69,13.8,50
+MD45,SS88,Urban Substation S,3,100,69,13.8,40
+R44,SS89,Rural Substation N,4,32,69,13.8,14
+R45,SS90,Rural Substation O,4,25,69,13.8,12
+MD46,SS91,Central Urban 7,3,140,69,13.8,50
+MD47,SS92,Industrial Substation 11,2,160,69,13.8,60
+R46,SS93,East Rural 6,4,25,69,13.8,10
+R47,SS94,West Rural 10,3,20,69,13.8,10
+MD48,SS95,North Urban 4,3.5,130,69,13.8,50
+MD49,SS96,Central Industrial 4,2,160,69,13.8,60
+R48,SS97,North Rural 6,4,35,69,13.8,18
+R49,SS98,South Rural 11,5.5,18,69,13.8,9
+MD50,SS99,Urban Substation T,3,125,69,13.8,45
+MD51,SS100,Industrial Substation 12,2.5,140,69,13.8,55
+,,,,,,,
+From,To,Description,Distance (km),Energy Transmitted (MWh),Voltage Level (kV),Ampacity (A),Coordinates
+MD1,EP1,Pole Cluster 1,0.8,25,13.8/0.4,180,"(9,15) → (9.5,15.5)"
+MD1,EP2,Pole Cluster 2,1.1,30,13.8/0.4,220,"(9,15) → (10,16)"
+MD2,EP3,Pole Cluster 3,1.4,35,13.8/0.4,260,"(7,17) → (8,18)"
+MD2,EP4,Pole Cluster 4,1.2,32,13.8/0.4,240,"(7,17) → (6,18)"
+R1,EP5,Pole Cluster 5,2,15,13.8/0.4,120,"(5,19) → (7,21)"
+R1,EP6,Pole Cluster 6,1.8,12,13.8/0.4,100,"(5,19) → (3,20)"
+R2,EP7,Pole Cluster 7,2.5,8,13.8/0.4,80,"(1,13) → (-1,15)"
+R2,EP8,Pole Cluster 8,2.2,10,13.8/0.4,90,"(1,13) → (3,11)"
+MD3,EP9,Pole Cluster 9,0.9,40,13.8/0.4,300,"(14,8) → (14.5,8.5)"
+MD3,EP10,Pole Cluster 10,1,28,13.8/0.4,210,"(14,8) → (15,9)"
+MD4,EP11,Pole Cluster 11,0.7,50,13.8/0.4,380,"(10,5) → (10.5,5.5)"
+MD4,EP12,Pole Cluster 12,0.8,45,13.8/0.4,340,"(10,5) → (11,6)"
+R3,EP13,Pole Cluster 13,1.9,18,13.8/0.4,140,"(7,-15) → (9,-14)"
+R3,EP14,Pole Cluster 14,2.1,14,13.8/0.4,110,"(7,-15) → (5,-13)"
+MD5,EP15,Pole Cluster 15,1,22,13.8/0.4,130,"(9,16) → (10,17)"
+MD5,EP16,Pole Cluster 16,1.2,18,13.8/0.4,120,"(9,16) → (8,17)"
+R4,EP17,Pole Cluster 17,2,25,13.8/0.4,150,"(6,-16) → (7,-17)"
+R5,EP18,Pole Cluster 18,1.5,20,13.8/0.4,100,"(4,-14) → (5,-15)"
+MD6,EP19,Pole Cluster 19,1.8,30,13.8/0.4,160,"(10,4) → (11,5)"
+MD7,EP20,Pole Cluster 20,1.3,28,13.8/0.4,150,"(11,6) → (12,7)"
+R6,EP21,Pole Cluster 21,1.6,15,13.8/0.4,120,"(3,-20) → (4,-21)"
+R7,EP22,Pole Cluster 22,2.2,12,13.8/0.4,100,"(2,-19) → (1,-20)"
+MD8,EP23,Pole Cluster 23,0.9,38,13.8/0.4,240,"(8,15) → (8.5,16)"
+MD9,EP24,Pole Cluster 24,1.1,20,13.8/0.4,130,"(9,16) → (10,17)"
+R8,EP25,Pole Cluster 25,1.4,10,13.8/0.4,80,"(5,-13) → (6,-14)"
+R9,EP26,Pole Cluster 26,1.7,15,13.8/0.4,100,"(3,-15) → (4,-16)"
+MD10,EP27,Pole Cluster 27,1,30,13.8/0.4,200,"(10,6) → (10.5,6.5)"
+MD11,EP28,Pole Cluster 28,1.2,28,13.8/0.4,180,"(10,7) → (10.5,7.5)"
+R10,EP29,Pole Cluster 29,2,22,13.8/0.4,120,"(6,-15) → (7,-16)"
+R11,EP30,Pole Cluster 30,1.5,20,13.8/0.4,100,"(5,-14) → (6,-15)"
+MD12,EP31,Pole Cluster 31,1,30,13.8/0.4,200,"(14,9) → (14.5,9.5)"
+MD13,EP32,Pole Cluster 32,1.1,35,13.8/0.4,220,"(12,8) → (12.5,8.5)"
+R12,EP33,Pole Cluster 33,1.8,15,13.8/0.4,120,"(7,-14) → (8,-15)"
+R13,EP34,Pole Cluster 34,2.2,10,13.8/0.4,90,"(5,-12) → (6,-13)"
+MD14,EP35,Pole Cluster 35,1.5,20,13.8/0.4,130,"(8,10) → (8.5,10.5)"
+MD15,EP36,Pole Cluster 36,1.2,25,13.8/0.4,140,"(9,11) → (9.5,11.5)"
+R14,EP37,Pole Cluster 37,2,18,13.8/0.4,100,"(4,-14) → (5,-15)"
+R15,EP38,Pole Cluster 38,1.5,15,13.8/0.4,80,"(3,-13) → (4,-14)"
+MD16,EP39,Pole Cluster 39,1.4,25,13.8/0.4,150,"(10,10) → (10.5,10.5)"
+MD17,EP40,Pole Cluster 40,1.6,30,13.8/0.4,160,"(11,11) → (11.5,11.5)"
+R16,EP41,Pole Cluster 41,1.8,12,13.8/0.4,100,"(5,-15) → (6,-16)"
+R17,EP42,Pole Cluster 42,2,10,13.8/0.4,90,"(4,-16) → (5,-17)"
+MD18,EP43,Pole Cluster 43,1.2,30,13.8/0.4,200,"(12,10) → (12.5,10.5)"
+MD19,EP44,Pole Cluster 44,1.4,28,13.8/0.4,180,"(13,11) → (13.5,11.5)"
+R18,EP45,Pole Cluster 45,1.8,15,13.8/0.4,120,"(6,-17) → (7,-18)"
+R19,EP46,Pole Cluster 46,2.2,10,13.8/0.4,90,"(5,-18) → (4,-19)"
+MD20,EP47,Pole Cluster 47,1.5,22,13.8/0.4,130,"(14,7) → (14.5,7.5)"
+MD21,EP48,Pole Cluster 48,1.3,20,13.8/0.4,120,"(15,8) → (15.5,8.5)"
+R20,EP49,Pole Cluster 49,2,18,13.8/0.4,100,"(8,-12) → (9,-13)"
+R21,EP50,Pole Cluster 50,1.8,15,13.8/0.4,90,"(7,-11) → (8,-12)"
+MD22,EP51,Pole Cluster 51,1,30,13.8/0.4,200,"(10,8) → (10.5,8.5)"
+MD23,EP52,Pole Cluster 52,1.2,28,13.8/0.4,180,"(11,9) → (11.5,9.5)"
+R22,EP53,Pole Cluster 53,1.4,15,13.8/0.4,120,"(6,-13) → (7,-14)"
+R23,EP54,Pole Cluster 54,2,10,13.8/0.4,90,"(5,-14) → (4,-15)"
+MD24,EP55,Pole Cluster 55,1.5,20,13.8/0.4,130,"(10,10) → (10.5,10.5)"
+MD25,EP56,Pole Cluster 56,1.2,25,13.8/0.4,140,"(11,11) → (11.5,11.5)"
+R24,EP57,Pole Cluster 57,1.8,12,13.8/0.4,100,"(5,-15) → (6,-16)"
+R25,EP58,Pole Cluster 58,2,10,13.8/0.4,100,"(5,-15) → (6,-16)"
+R26,EP59,Pole Cluster 59,1.5,15,13.8/0.4,90,"(6,-16) → (7,-17)"
+R27,EP60,Pole Cluster 60,1.8,12,13.8/0.4,80,"(5,-17) → (6,-18)"
+MD26,EP61,Pole Cluster 61,1.2,30,13.8/0.4,220,"(13,8) → (13.5,8.5)"
+MD27,EP62,Pole Cluster 62,1,35,13.8/0.4,240,"(12,7) → (12.5,7.5)"
+R28,EP63,Pole Cluster 63,1.3,15,13.8/0.4,120,"(7,-18) → (8,-19)"
+R29,EP64,Pole Cluster 64,2,10,13.8/0.4,90,"(5,-19) → (6,-20)"
+MD28,EP65,Pole Cluster 65,1.4,20,13.8/0.4,130,"(14,9) → (14.5,9.5)"
+MD29,EP66,Pole Cluster 66,1.6,22,13.8/0.4,140,"(15,10) → (15.5,10.5)"
+R30,EP67,Pole Cluster 67,1.8,18,13.8/0.4,100,"(8,-20) → (9,-21)"
+R31,EP68,Pole Cluster 68,2.1,14,13.8/0.4,90,"(7,-21) → (6,-22)"
+MD30,EP69,Pole Cluster 69,1.7,25,13.8/0.4,150,"(11,12) → (11.5,12.5)"
+MD31,EP70,Pole Cluster 70,1.5,30,13.8/0.4,200,"(10,11) → (10.5,11.5)"
+R32,EP71,Pole Cluster 71,1.8,12,13.8/0.4,100,"(5,-22) → (6,-23)"
+R33,EP72,Pole Cluster 72,1.4,10,13.8/0.4,90,"(4,-23) → (5,-24)"
+MD32,EP73,Pole Cluster 73,1,28,13.8/0.4,180,"(12,10) → (12.5,10.5)"
+MD33,EP74,Pole Cluster 74,1.2,20,13.8/0.4,130,"(11,9) → (11.5,9.5)"
+R34,EP75,Pole Cluster 75,1.3,15,13.8/0.4,100,"(6,-24) → (7,-25)"
+R35,EP76,Pole Cluster 76,1.5,12,13.8/0.4,80,"(5,-25) → (4,-26)"
+MD34,EP77,Pole Cluster 77,1.1,30,13.8/0.4,200,"(13,9) → (13.5,9.5)"
+MD35,EP78,Pole Cluster 78,1.3,28,13.8/0.4,180,"(14,10) → (14.5,10.5)"
+R36,EP79,Pole Cluster 79,1.4,22,13.8/0.4,120,"(7,-26) → (8,-27)"
+R37,EP80,Pole Cluster 80,1.6,18,13.8/0.4,100,"(6,-27) → (7,-28)"
+MD36,EP81,Pole Cluster 81,1.2,30,13.8/0.4,200,"(10,12) → (10.5,12.5)"
+MD37,EP82,Pole Cluster 82,1.4,25,13.8/0.4,150,"(11,13) → (11.5,13.5)"
+R38,EP83,Pole Cluster 83,1.5,20,13.8/0.4,130,"(8,-28) → (9,-29)"
+R39,EP84,Pole Cluster 84,1.7,15,13.8/0.4,120,"(7,-29) → (6,-30)"
+MD38,EP85,Pole Cluster 85,1.3,30,13.8/0.4,200,"(12,11) → (12.5,11.5)"
+MD39,EP86,Pole Cluster 86,1.5,28,13.8/0.4,180,"(11,10) → (11.5,10.5)"
+R40,EP87,Pole Cluster 87,1.6,12,13.8/0.4,100,"(6,-30) → (7,-31)"
+R41,EP88,Pole Cluster 88,1.8,10,13.8/0.4,90,"(5,-31) → (4,-32)"
+MD40,EP89,Pole Cluster 89,1.4,30,13.8/0.4,200,"(10,13) → (10.5,13.5)"
+MD41,EP90,Pole Cluster 90,1.6,28,13.8/0.4,180,"(11,12) → (11.5,12.5)"
+R42,EP91,Pole Cluster 91,1.5,15,13.8/0.4,120,"(6,-32) → (7,-33)"
+R43,EP92,Pole Cluster 92,1.8,12,13.8/0.4,100,"(5,-33) → (4,-34)"
+MD42,EP93,Pole Cluster 93,1.3,30,13.8/0.4,200,"(12,12) → (12.5,12.5)"
+MD43,EP94,Pole Cluster 94,1.5,25,13.8/0.4,150,"(11,13) → (11.5,13.5)"
+R44,EP95,Pole Cluster 95,1.6,18,13.8/0.4,100,"(7,-34) → (8,-35)"
+R45,EP96,Pole Cluster 96,1.8,10,13.8/0.4,90,"(6,-35) → (5,-36)"
+MD44,EP97,Pole Cluster 97,1.4,30,13.8/0.4,200,"(10,14) → (10.5,14.5)"
+MD45,EP98,Pole Cluster 98,1.6,28,13.8/0.4,180,"(11,15) → (11.5,15.5)"
+R46,EP99,Pole Cluster 99,1.5,15,13.8/0.4,120,"(6,-36) → (7,-37)"
+R47,EP100,Pole Cluster 100,1.8,12,13.8/0.4,100,"(5,-37) → (4,-38)"
